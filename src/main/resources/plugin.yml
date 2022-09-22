@@ -1,0 +1,6 @@
+name: TimaAutoMessage
+version: '${project.version}'
+main: ovh.rootkovskiy.timaautomessage.TimaAutoMessage
+authors: [ timurroot ]
+description: Simple auto message plugin
+website: www.rootkovskiy.ovh
